@@ -1,0 +1,12 @@
+.d-flex {
+  display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-row {
+  flex-direction: row;
+}
+.gap-40 {
+  gap: 40px;
+}

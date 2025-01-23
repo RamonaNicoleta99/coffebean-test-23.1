@@ -1,0 +1,11 @@
+.image-1 {
+  background: yellowgreen;
+  height: 400px;
+  width: auto;
+  border-radius: 15px;
+}
+.partners-grid {
+  width: 70%;
+  height: auto;
+  margin: auto;
+}

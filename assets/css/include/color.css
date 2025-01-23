@@ -1,0 +1,14 @@
+/* Color */
+
+.color-light {
+  color: whitesmoke;
+}
+.color-dark {
+  color: black;
+}
+.color-accent {
+  color: var(--color-accent);
+}
+.color-warning {
+  color: var(--color-warning);
+}

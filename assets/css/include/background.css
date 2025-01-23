@@ -1,0 +1,19 @@
+/* background*/
+
+.background-grey {
+  background: grey;
+}
+.background-accent {
+  background: rosybrown;
+}
+.background-black {
+  background: black;
+}
+.bg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: aquamarine;
+  border-radius: 20px;
+  height: 200;
+  width: auto;
+}

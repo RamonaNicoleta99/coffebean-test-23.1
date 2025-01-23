@@ -1,0 +1,14 @@
+/* Reset */
+
+body {
+  margin: 0;
+}
+
+ul {
+  padding: 0; /* reset the UL initial padding*/
+  margin: 0;
+}
+
+ul li {
+  list-style-type: none; /* reset the UL initial padding*/
+}
